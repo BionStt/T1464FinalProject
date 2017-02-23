@@ -1,4 +1,4 @@
-# t1464-final-project
+# T1464FinalProject
 
 > Source code for my Programming for Business (T1464) final project entry.
 
@@ -24,7 +24,7 @@ You can clone the project directly from Visual Studio 2015 (I forgot how, but yo
 
 ### Attaching the database
 
-Before debugging and running the app, make sure you have attached the included database files (`Database1.mdf` and `Database1_log.mdf`) to your Microsoft SQL Server instance, and connect to it from Visual Studio. Here's how you do it.
+Before debugging and running the app, make sure you have attached the included database files (`Database1.mdf` and `Database1_log.ldf`) to your Microsoft SQL Server instance, and connect to it from Visual Studio. Here's how you do it.
 
 * Open SQL Server Management Studio, select the `Databases` node, right click it and select `Attach...`
 * Provide the path for the `.mdf` file, click OK and then you should be good to go.
@@ -37,7 +37,7 @@ Before debugging and running the app, make sure you have attached the included d
 
 ## Project Requirements
 
-See the attached doc file `[E2-T1464-CF01-00.docx](E2-T1464-CF01-00.docx)` for the project requirements.
+See the attached doc file ([`E2-T1464-CF01-00.docx`](E2-T1464-CF01-00.docx)) for the project requirements.
 
 ## License
 
