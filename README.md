@@ -41,4 +41,4 @@ See the attached doc file ([`E2-T1464-CF01-00.docx`](E2-T1464-CF01-00.docx)) for
 
 ## License
 
-[MIT](LICENSE).
+[Unlicense](LICENSE).
